@@ -1,0 +1,173 @@
+.body {
+  background-color: #ffc069;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+.h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+}
+h2 {
+  color: #66bfbf;
+  font-family: "Merriweather", sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  color: #11999e;
+  font-family: "Merriweather", sans-serif;
+  padding-bottom: 10px;
+}
+h5 {
+  line-height: 2;
+}
+.flag {
+  position: absolute;
+  left: 100px;
+  bottom: 230px;
+  height: 100px;
+}
+.top-container {
+  background-color: black;
+  position: relative;
+  padding-top: 35%;
+}
+.name {
+  font-family: "Merriweather", sans-serif;
+  font-size: 0.25;
+  color: #ffc069;
+  font-style: Lucida Handwriting;
+  bottom: 300px;
+}
+
+.middle-container {
+  margin: 100px 0;
+  /* background-color: #fcf0c8; */
+}
+/* .bottom-container {
+} */
+.Skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.pro {
+  text-decoration: underline;
+}
+.top-cloud {
+  position: absolute;
+  left: 70px;
+  bottom: 300px;
+  height: 100px;
+  top: 30px;
+}
+.topp-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 320px;
+  height: 100px;
+}
+.falling {
+  position: absolute;
+  left: 900px;
+  top: 100px;
+  height: 100px;
+}
+.moon {
+  position: absolute;
+  left: 1170px;
+  top: 70px;
+  height: 100px;
+}
+.sun {
+  position: absolute;
+  left: 500px;
+  top: 200px;
+  height: 200px;
+}
+.saturn {
+  position: absolute;
+  left: 700px;
+  top: 100px;
+  height: 60px;
+}
+.airplane {
+  position: absolute;
+  left: 230px;
+  top: 200px;
+  height: 100px;
+}
+.aeroplanes {
+  position: absolute;
+  left: 80px;
+  bottom: 320px;
+  height: 40px;
+  top: 60px;
+}
+.satellite {
+  position: absolute;
+  left: 800px;
+  top: 100px;
+  height: 70px;
+}
+.map {
+  position: absolute;
+  left: 300px;
+  top: 100px;
+  height: 70px;
+}
+.worldwide {
+  position: absolute;
+  left: 800px;
+  top: 300px;
+  height: 70px;
+}
+.astronaut {
+  position: absolute;
+  left: 500px;
+  top: 00px;
+  height: 70px;
+}
+.pilot-image {
+  height: 100px;
+}
+.bottom-mountain {
+  position: absolute;
+  height: 230px;
+  left: 1000px;
+  bottom: 3px;
+}
+.mage {
+  position: absolute;
+  height: 200px;
+  left: 310px;
+  bottom: 30px;
+}
+.plane-img {
+  height: 160px;
+  border-radius: 50%;
+}
+.college-img {
+  height: 160px;
+  border-radius: 50%;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+p {
+  text-align: center;
+}
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  /* background-color:  */
+  color: black;
+  padding-bottom: 30%;
+}
